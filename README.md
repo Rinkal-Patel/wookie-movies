@@ -46,3 +46,10 @@ going into production - then push your changes to the master branch. After you h
 All the best and happy coding,
 
 The MyDNA Life Team
+    
+## Screenshots  
+<img src="/Designs/Screenshot_20210814-151319_wookie-movies-1-vezbji.jpg" width="346" height="615" alt="Homescreen"/>     
+<img src="/Designs/Screenshot_20210814-151238_wookie-movies-1-vezbji.jpg" width="346" height="615" alt="Homescreen1"/> 
+<img src="/Designs/Screenshot_20210814-151246_wookie-movies-1-vezbji.jpg" width="346" height="615" alt="Detailscreen"/> 
+<img src="/Designs/Screenshot_20210814-151353_wookie-movies-1-vezbji.jpg" width="346" height="615" alt="Detailscreen1"/>     
+    
